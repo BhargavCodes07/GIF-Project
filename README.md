@@ -4,6 +4,9 @@ A simple Python project that creates an animated GIF using the Pillow library.
 
 This project generates a moving red circle animation and saves it as a GIF file.
 
+gif_creator is code 
+moving_ball is preview
+
 ## Features
 
 - Creates an animated GIF
@@ -29,7 +32,7 @@ pip install pillow
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone THIS_REPO_LINK
 ```
 
 2. Open the project folder.
